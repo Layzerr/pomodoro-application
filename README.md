@@ -25,12 +25,12 @@ If you want to install the Program Individually and run the main.exe, You should
 - Python 3.12
 - Tkinter Library
 - Math Library
-*Both Tkinter and Math come pre-installed if you have Python 3.12 or later.
-*main.py and tomato.png files should be in the same directory as the main.exe program, you don't need to download individual files if you download the
+Both Tkinter and Math come pre-installed if you have Python 3.12 or later.
+main.py and tomato.png files should be in the same directory as the main.exe program, you don't need to download individual files if you download the
 program using the Pomodoro Application.exe
 #### NOTE:
 - Pomodoro Application.exe is an installer program that installs all the necessary files along with the Application main.exe
-- main.exe is the file to be run after the installion has completed.
+- main.exe is the file to be run after the installation has been completed.
 
 ## Installation
 Download and Run the "Pomodoro Application.exe" file and download it just as you download any other program. Follow the SetUp wizard and on-screen instructions.
