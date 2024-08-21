@@ -27,6 +27,7 @@ If you want to run the Program Individually using the main.py, You should have t
 
 ## Installation
 Download and Run the "Pomodoro Application.exe" file and download it just as you download any other program. Follow the SetUp wizard and on-screen instructions.
+
 ![Screenshot 2024-08-22 003800](https://github.com/user-attachments/assets/aa71b2e8-e7ef-4b19-8fe2-6082c1ec9180)
 
 ## Acknowledgement
