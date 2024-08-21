@@ -34,6 +34,7 @@ program using the Pomodoro Application.exe
 
 ## Installation
 Download and Run the "Pomodoro Application.exe" file and download it just as you download any other program. Follow the SetUp wizard and on-screen instructions.
+
 ![Screenshot 2024-08-22 010356](https://github.com/user-attachments/assets/5bae1670-6950-4cc3-91b5-698a7780ad33)
 
 
