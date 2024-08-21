@@ -34,8 +34,8 @@ program using the Pomodoro Application.exe
 
 ## Installation
 Download and Run the "Pomodoro Application.exe" file and download it just as you download any other program. Follow the SetUp wizard and on-screen instructions.
+![Screenshot 2024-08-22 010356](https://github.com/user-attachments/assets/5bae1670-6950-4cc3-91b5-698a7780ad33)
 
-![Screenshot 2024-08-22 003800](https://github.com/user-attachments/assets/aa71b2e8-e7ef-4b19-8fe2-6082c1ec9180)
 
 ## Acknowledgement
 A simpler version of the Project was assigned by Dr. Angela Yu's Python Bootcamp course on Udemy. I took it a step further by adding some key features.
