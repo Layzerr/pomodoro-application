@@ -17,7 +17,13 @@ The project's main purpose is time management, based on the Pomodoro Technique. 
 ![Screenshot 2024-08-22 002254](https://github.com/user-attachments/assets/9b527dd6-ac29-41c3-87f8-e6ca11c1b83c)
 ![Screenshot 2024-08-22 002352](https://github.com/user-attachments/assets/d894477f-d916-4c50-82e4-57b05e69e2d9)
 
-## Getting Started
+## Try It Out
+
+You can run this project directly in your browser without downloading anything.
+
+[Click here to run the project on Replit](https://replit.com/join/qgtnrvtxbs-aryan-ahmed)
+
+## Running The Program
 You should run the "Pomodoro Application.exe" which will download all the Files needed to run the program and does not require Python to be installed on the system.
 If you want to install the Program Individually and run the main.exe, You should have the following installed:
 - main.py file
