@@ -11,11 +11,11 @@ The project's main purpose is time management, based on the Pomodoro Technique. 
 - Simple UI using Tkinter
 
 ## Screenshots
-![https://github.com/yourusername/yourrepository/blob/main/assets/gifs/demo.gif]
-![https://github.com/yourusername/yourrepository/blob/main/assets/gifs/demo.gif]
-![https://github.com/yourusername/yourrepository/blob/main/assets/gifs/demo.gif]
-![https://github.com/yourusername/yourrepository/blob/main/assets/gifs/demo.gif]
-![https://github.com/yourusername/yourrepository/blob/main/assets/gifs/demo.gif]
+[https://github.com/Layzerr/pomodoro-application/main/assets/timer.png]
+[https://github.com/Layzerr/pomodoro-application/main/assets/work.png]
+[https://github.com/Layzerr/pomodoro-application/main/assets/break.png]
+[https://github.com/Layzerr/pomodoro-application/main/assets/paused.png]
+[https://github.com/Layzerr/pomodoro-application/main/assets/endtimer.png]
 
 ## Try It Out
 
