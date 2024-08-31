@@ -11,11 +11,11 @@ The project's main purpose is time management, based on the Pomodoro Technique. 
 - Simple UI using Tkinter
 
 ## Screenshots
-![Screenshot 2024-08-22 002106](https://github.com/user-attachments/assets/74b08455-67ce-483e-8e41-2b93008c40cd)
-![Screenshot 2024-08-22 002135](https://github.com/user-attachments/assets/31cdbaef-e810-47f2-83f4-6093dbd5f737)
-![Screenshot 2024-08-22 002152](https://github.com/user-attachments/assets/2ebb7398-2233-44d1-93f5-6b8911ef6d32)
-![Screenshot 2024-08-22 002254](https://github.com/user-attachments/assets/9b527dd6-ac29-41c3-87f8-e6ca11c1b83c)
-![Screenshot 2024-08-22 002352](https://github.com/user-attachments/assets/d894477f-d916-4c50-82e4-57b05e69e2d9)
+[https://github.com/yourusername/yourrepository/blob/main/assets/gifs/demo.gif]
+[https://github.com/yourusername/yourrepository/blob/main/assets/gifs/demo.gif]
+[https://github.com/yourusername/yourrepository/blob/main/assets/gifs/demo.gif]
+[https://github.com/yourusername/yourrepository/blob/main/assets/gifs/demo.gif]
+[https://github.com/yourusername/yourrepository/blob/main/assets/gifs/demo.gif]
 
 ## Try It Out
 
